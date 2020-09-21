@@ -1,0 +1,125 @@
+.canvas_outer_frame{
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #540D6E;
+
+}
+
+.canvas_main_frame{
+position: absolute;
+width: 1084px;
+height: 814px;
+left: 7px;
+top: 7px;
+
+background: #FFFFFF;
+border-radius: 20px;
+z-index: 0;
+}
+
+.game_title{
+
+position: absolute;
+width: 293px;
+height: 70px;
+left: 394px;
+top: 75px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 60px;
+line-height: 70px;
+z-index: :2;
+
+color: #6A4C93;
+}
+
+#playButton{
+
+position: absolute;
+width: 250px;
+height: 75px;
+left: 416px;
+top: 302px;
+
+background: #FF595E;
+border-radius: 10px;
+z-index: :2;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+z-index: :2;
+color: #FFFBFB;
+
+}
+
+
+
+#loginButton{
+
+position: absolute;
+width: 250px;
+height: 75px;
+left: 416px;
+top: 418px;
+
+background: #FFCA3A;
+border-radius: 10px;
+z-index: :3;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+z-index: :3;
+color: #FFFBFB;
+
+}
+
+#leaderboardButton{
+
+position: absolute;
+width: 250px;
+height: 75px;
+left: 416px;
+top: 534px;
+
+background: #8AC926;
+border-radius: 10px;
+z-index: :3;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+z-index: :3;
+color: #FFFBFB;
+
+}
+
+#border_menu{
+
+position: absolute;
+width: 408px;
+height: 419px;
+left: 342px;
+top: 242px;
+
+background: #1982C4;
+border-radius: 50px;
+z-index: :2;
+}
